@@ -33,3 +33,4 @@ C: cccam.bongulu.biz 17000 bursaremzi bmt7qf1w3 # v2.0.11-2892
 C: 6.clinesat.xyz 61000 exsuper3828 741489 # v2.0.11-2892
 C: 3.clinesat.xyz 33000 qv6xxqtk9 vpsr2jpd # v2.0.11-2892
 C: free.cccamgood.com 25054 iahvae free
+C: free.cccamgenerador.com 29000 cxx249 free
