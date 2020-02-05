@@ -160,3 +160,11 @@ C: 2.cccam.live 23000 cccam.services 58470
 C: 1.cccam.host 23000 cccam.services 58470  
 C: 2.cccam.services 23000 cccam.services 58470  
 C: 2.cccam.host 23000 cccam.services 58470  
+C: bandookk.sytes.net 33002 telegram bandookkboss  
+C: 1.clinesat.xyz 11000 PTR19081435 tve8o  
+C: 5.clinesat.xyz 55000 ebox0001 gewg234  
+C: 2.clinesat.xyz 22000 yicy6315 v5d7n6m  
+C: 2.clinesat.xyz 22000 exsu1119a5 vpsr2uj4  
+C: 6.clinesat.xyz 61000 exsu1119a5 vpsr2uj4  
+C: SERVER55.JUSTCCCAM.INFO 22307 I305 ONLINEUYDUS  
+C: 3.CLINESAT.XYZ 33000 PTR19081435 TVE8O  
