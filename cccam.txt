@@ -363,3 +363,5 @@ C: cccam.freeiptv4u.com 1958 prend52 https://freeiptv4u.com
 C: cccam.freeiptv4u.com 1958 prend53 https://freeiptv4u.com
 C: cccam.freeiptv4u.com 1958 prend54 https://freeiptv4u.com
 C: cccam.freeiptv4u.com 1958 prend55 https://freeiptv4u.com
+C: server60.justcccam.info 22307 J162 Jazair55639  
+C: server60.justcccam.info 22307 J56 Jazair76151  
