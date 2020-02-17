@@ -323,3 +323,7 @@ C: 2.cccam.services 23000 cccam.agency 81237
 C: 1.cccam.services 23000 cccam.agency 81237   
 C: 178.32.89.251 1003 zargacum.center update  
 C: 1.tvsnake.com 22600 DJx89v 64wt9v  
+C: s10-cas1.dyndns.tv 7777 kosimov 7430877  
+C: 46.20.36.27 44 mrsharing.com22491 oiuyt67103  
+C: 79.143.189.31 11100 77777 9089  
+C: 6.clinesat.xyz 61000 atsuper1857 686623  
