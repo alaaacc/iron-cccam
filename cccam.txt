@@ -1,5 +1,4 @@
 C: 1.clinesat.xyz 11000 atsu1211b39 vpsr155k  
-C: 1.clinesat.xyz 11000 atsuper1021A71 tvctd 
 C: 1.clinesat.xyz 11000 exsu1119a5 vpsr2uj4  
 C: 1.clinesat.xyz 11000 owd01922 tvdnq  
 C: 178.238.224.107 14000 haha haha  
@@ -14,10 +13,7 @@ C: 178.32.89.251 1003 zargacum.center update
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX  
 C: 186.2.174.92 10100 persic58 16092017persic 
 C: 2.clinesat.xyz 22000 atsu010695 vpsr1p44  
-C: 2.clinesat.xyz 20000 extvlink586 183488  
-C: 2.clinesat.xyz 22000 atsuper1104a59 vpsr208p  
 C: 2.clinesat.xyz 22000 ebox0001 gewg234  
-C: 2.clinesat.xyz 22000 exsu1119a5 vpsr2uj4 
 C: 3.clinesat.xyz 33000 ojhfda4 vpsr2m77  
 C: 37.187.161.201 1003 0914 0002  
 C: 4.clinesat.xyz 44000 clem0071 12345  
@@ -35,8 +31,6 @@ C: jeje.resident.ovh 33333 fjmallen fjmallenpass
 C: newking.mysql.tv 12000 Foxhd812 1Z988x  
 C: s10-cas1.dyndns.tv 7777 kosimov 7430877  
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877 
-C: server55.justcccam.info 22307 I264 Jazair42584  
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix 
-C: server55.justcccam.info 22307 I306 onlineuyduT  
 C: pierrette.dyndns.org 43650 aldioche aldioche  
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk  
