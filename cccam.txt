@@ -5,7 +5,6 @@ C: 178.32.89.251 1003 00 00
 C: 1.tvsnake.com 22700 kdzVTL HwhK9z  
 C: 178.32.89.251 1003 zargacum.center update  
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX  
-C: 2.clinesat.xyz 22000 ebox0001 gewg234  
 C: 178.238.224.107 18000 koora koora  
 C: 37.187.161.201 1003 0914 0002  
 C: 4.clinesat.xyz 44000 clem0071 12345  
