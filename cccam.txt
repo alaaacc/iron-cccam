@@ -1,4 +1,3 @@
-C: 1.clinesat.xyz 11000 exsu1119a5 vpsr2uj4  
 C: 1.clinesat.xyz 11000 owd01922 tvdnq  
 C: 178.238.224.107 18000 aabb bbaa 
 C: 178.32.89.251 1003 00 00  
@@ -7,7 +6,6 @@ C: 178.32.89.251 1003 zargacum.center update
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX  
 C: 178.238.224.107 18000 koora koora  
 C: 37.187.161.201 1003 0914 0002  
-C: 4.clinesat.xyz 44000 clem0071 12345  
 C: 4.clinesat.xyz 44000 qv6xxqtk9 vpsr2jpd  
 C: 54.38.157.235 7777 kosimov 7430877  
 C: 79.143.178.10 19000 abboe10800 rtrtg  
@@ -17,5 +15,4 @@ C: jeje.resident.ovh 33333 fjmallen fjmallenpass
 C: s10-cas1.dyndns.tv 7777 kosimov 7430877  
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877  
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix  
-C: pierrette.dyndns.org 43650 aldioche aldioche 
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk 
