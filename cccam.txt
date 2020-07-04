@@ -1,4 +1,3 @@
-C: 178.238.224.107 18000 koora koora  
 C: 178.32.89.251 1003 00 00  
 C: 178.32.89.251 1003 zargacum.center update  
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX  
