@@ -24,6 +24,5 @@ C: upc2.boxnl.org 10006 bachiz107 bachiz101ij
 C: demo.mbpot.com 20000 SOPORTE-24H6 mbpot.com  
 C: 1.clinesat.xyz 11000 ss21083 120492  
 C: 4.clinesat.xyz 44000 novilka19 tvjq9  
-C: 5.clinesat.xyz 55000 novilka19 tvjq9  
 C: cyber.lovel4ever.eu 62500 johanspoelstra johan61  
 C: 6.clinesat.xyz 61000 novilka20 tvdo4
