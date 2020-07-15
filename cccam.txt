@@ -11,15 +11,12 @@ C: s10-cas1.dyndns.tv 7777 kosimov 7430877
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877  
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: ennudan.nu 16700 cale eur2903  
-C: 3sha.3superstar.org 23000 alepadron596 596alepadron  
 C: 178.238.224.107 18000 haha bbaa  
 C: 178.238.224.107 18000 tvtv tvtv  
 C: 178.238.224.107 18000 aabb bbaa  
-C: 178.238.224.107 14000 haha haha  
 C: 178.238.224.107 18000 eeee tvtv  
 C: 51.89.40.86 1003 mhisw9nb xmka1hfa  
 C: 37.187.161.201 1003 0255 0000  
-C: demo.mbpot.com 20000 SOPORTE-24H4 mbpot.com  
 C: upc2.boxnl.org 10006 bachiz107 bachiz101ij  
 C: demo.mbpot.com 20000 SOPORTE-24H6 mbpot.com  
 C: 1.clinesat.xyz 11000 ss21083 120492  
